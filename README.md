@@ -20,7 +20,7 @@
 6. How does the gender distribution vary across departments and job titles?
 7. What is the distribution of job titles across the company?
 8. Which department has the highest turnover rate?
-9. What is the distribution of employees across locations by city and state?
+9. What is the distribution of employees across locations by state?
 10. How has the company's employee count changed over time based on hire and term dates?
 
 ## Summary of Findings
